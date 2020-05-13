@@ -1,5 +1,5 @@
 # Ship-Segmentation
-Project is all about converting an image which may or may not contain a ship(s) to another image where ships are bounded by contours around them if there are ships present in the image.
+Project is all about producing an "output" image, from "input" image which may or may not contain a ship(s), where ships are bounded by contours around them if there are ships present in the "input" image.
 
 ABOUT DATASET - 
 
